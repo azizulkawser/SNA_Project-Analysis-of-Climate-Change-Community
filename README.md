@@ -1,5 +1,6 @@
 # SNA_Project-Analysis-of-Climate-Change-Community
-Uncovering the Climate Change Conversation on Twitter: Analyzing Hashtags, Communities, and Sentiments.
+Uncovering the Climate Change Conversation on Twitter: Analyzing Hashtags, Communities, and Sentiments.  
+
 Project Description. 
 
 The problem statement for this project is to analyze the social media activity related to climate change by identifying the most popular hashtags, the regional locations and languages associated with them, and the sentiment expressed in the tweets. 
